@@ -1,6 +1,6 @@
 module.exports = {
     "registercommands" : false,
-     "token": "ODY1NTk2ODg3MDE2OTMxMzU4.YPGT6w.OXpgA-4RuhQO27sH_yRrpQsumtI",
+     "token": "MTA3NDQ1NTc5MTU3NjI4NTI4Ng.GB5Ra-.C4Czjx4QD1OG4RGRO3c1Qf4RsJ1jAsRpDJsFg4",
     "imageapi": "bb03f373caa534fcfcbaeae177a65134f44a6e57ba7a7b098be273867b376d8a677ddae3c23c6ded4fec8288573945e8c3483689deb13f229376ad4b5b60231d",
     "ownerID": ["852219497763045398"],
 "prefix": ".",
