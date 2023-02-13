@@ -1,8 +1,7 @@
 module.exports = {
     "registercommands" : false,
-     "token": "ODY1NTk2ODg3MDE2OTMxMzU4.YPGT6w.OXpgA-4RuhQO27sH_yRrpQsumtI",
-    "imageapi": "bb03f373caa534fcfcbaeae177a65134f44a6e57ba7a7b098be273867b376d8a677ddae3c23c6ded4fec8288573945e8c3483689deb13f229376ad4b5b60231d",
-    "ownerID": ["852219497763045398"],
+     "token": "MTA3NDQ1NTc5MTU3NjI4NTI4Ng.GWvym_.65wcmvXw9YSvlW_pTzeIWU5Mp8ynho1gmWtnrc",
+    "imageapi": "https://media.discordapp.net/attachments/1069914358399905862/1073716851265257552/I_need_some_space_.png"
 "prefix": ".",
 "chat": {
         "url": "http://api.brainshop.ai/get?bid=155777&key=O0Rla6COZJ8XSGPJ&uid=[uid]&msg=[msg]",
@@ -28,8 +27,8 @@ defaultleavemessage: "{user} Left, Invited by {inviter}",
     },
 
     start: {
-        loading: "LOADING XD", //Loading status
-        activity: "BRUH" //Status
+        loading: "LOADING", //Loading status
+        activity: "STARS" //Status
     },
 
     events: {
@@ -42,7 +41,7 @@ defaultleavemessage: "{user} Left, Invited by {inviter}",
     grole: "Giveaway Manager", //If the member doesn't have permission to handle messages he can still use the giveaways commands if he has the role configured right here
 
     auth: {
-        support: "https://discord.gg/UA6sSqKXpZ", //The link of your Discord server
+        support: "https://discord.gg/RjUCK6JEqX", //The link of your Discord server
         dperms: "8" //The permissions that the bot asks on we want to add it on a Discord server (8 = moderator)
     },
 } 
